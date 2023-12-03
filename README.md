@@ -18,6 +18,12 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+# This is the biggest header
+## Smaller
+### Even smaller
+#### Super small
+##### Almost smalest
+###### Smalest
 
 ## Step 5: Merge your pull request
 
